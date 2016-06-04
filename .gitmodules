@@ -16,9 +16,6 @@
 [submodule "905_post-workshop"]
 	path = 905_post-workshop
 	url = https://github.com/BPA-CSIRO-Workshops/btp-module-nectar.git
-[submodule "090_velvet"]
-	path = 090_velvet
-	url = https://github.com/BPA-CSIRO-Workshops/btp-module-velvet.git
 [submodule "orchestration"]
 	path = orchestration
 	url = https://github.com/BPA-CSIRO-Workshops/btp-orchestration.git
