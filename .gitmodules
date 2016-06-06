@@ -7,9 +7,6 @@
 [submodule "070_chip-seq"]
 	path = 070_chip-seq
 	url = https://github.com/BPA-CSIRO-Workshops/btp-module-chip-seq.git
-[submodule "080_rna-seq"]
-	path = 080_rna-seq
-	url = https://github.com/BPA-CSIRO-Workshops/btp-module-rna-seq.git
 [submodule "060_alignment"]
 	path = 060_alignment
 	url = https://github.com/BPA-CSIRO-Workshops/btp-module-ngs-mapping.git
@@ -19,3 +16,9 @@
 [submodule "orchestration"]
 	path = orchestration
 	url = https://github.com/BPA-CSIRO-Workshops/btp-orchestration.git
+[submodule "080_rnaseq"]
+	path = 080_rnaseq
+	url = git@github.com:tsonika/RNAseq-ver2.git
+[submodule "090_biology"]
+	path = 090_biology
+	url = git@github.com:tsonika/BiologicalInterpretation.git
