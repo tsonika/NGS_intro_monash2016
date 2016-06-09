@@ -1,6 +1,9 @@
 [submodule "style"]
 	path = style
 	url = https://github.com/BPA-CSIRO-Workshops/btp-handout-style.git
+[submodule "020_cmd-intro"]
+	path = 020_cmd-intro
+	url = git@github.com:tsonika/cmd_intro.git
 [submodule "050_ngs-qc"]
 	path = 050_ngs-qc
 	url = https://github.com/BPA-CSIRO-Workshops/btp-module-ngs-qc.git
@@ -18,7 +21,4 @@
 	url = git@github.com:tsonika/RNAseq-ver2.git
 [submodule "090_biology"]
 	path = 090_biology
-	url = git@github.com:tsonika/BiologicalInterpretation.git
-[submodule "020_cmd-intro"]
-	path = 020_cmd-intro
-	url = git@github.com:tsonika/cmd_intro.git
+	url = git@github.com:BPA-CSIRO-Workshops/btp-module-ngs-bio.git
