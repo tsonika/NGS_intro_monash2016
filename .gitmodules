@@ -10,9 +10,6 @@
 [submodule "060_alignment"]
 	path = 060_alignment
 	url = https://github.com/BPA-CSIRO-Workshops/btp-module-ngs-mapping.git
-[submodule "905_post-workshop"]
-	path = 905_post-workshop
-	url = https://github.com/BPA-CSIRO-Workshops/btp-module-nectar.git
 [submodule "orchestration"]
 	path = orchestration
 	url = https://github.com/BPA-CSIRO-Workshops/btp-orchestration.git
@@ -22,3 +19,6 @@
 [submodule "090_biology"]
 	path = 090_biology
 	url = git@github.com:tsonika/BiologicalInterpretation.git
+[submodule "020_cmd-intro"]
+	path = 020_cmd-intro
+	url = git@github.com:tsonika/cmd_intro.git
