@@ -3,7 +3,7 @@
 	url = https://github.com/BPA-CSIRO-Workshops/btp-handout-style.git
 [submodule "020_cmd-intro"]
 	path = 020_cmd-intro
-	url = git@github.com:tsonika/cmd_intro.git
+	url = https://github.com:BPA-CSIRO-Workshops/btp-module-ngs-cli.git
 [submodule "050_ngs-qc"]
 	path = 050_ngs-qc
 	url = https://github.com/BPA-CSIRO-Workshops/btp-module-ngs-qc.git
@@ -13,12 +13,12 @@
 [submodule "060_alignment"]
 	path = 060_alignment
 	url = https://github.com/BPA-CSIRO-Workshops/btp-module-ngs-mapping.git
-[submodule "orchestration"]
-	path = orchestration
-	url = https://github.com/BPA-CSIRO-Workshops/btp-orchestration.git
 [submodule "080_rnaseq"]
 	path = 080_rnaseq
 	url = git@github.com:tsonika/RNAseq-ver2.git
 [submodule "090_biology"]
 	path = 090_biology
-	url = git@github.com:BPA-CSIRO-Workshops/btp-module-ngs-bio.git
+	url = https://github.com:BPA-CSIRO-Workshops/btp-module-ngs-bio.git
+[submodule "orchestration"]
+	path = orchestration
+	url = https://github.com/BPA-CSIRO-Workshops/btp-orchestration.git
